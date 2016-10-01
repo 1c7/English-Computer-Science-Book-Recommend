@@ -9,7 +9,7 @@ the order doesn't matter here, you shouldn't read these book one by one as how I
 Here is my book list and my review, hope it help you. enjoy.  
 
 <br/>
-### 1. Grokking Algorithms An illustrated guide for programmers and other curious people
+### 1. "Grokking Algorithms An illustrated guide for programmers and other curious people"
 [Data structure and Algorithm]    
 https://www.amazon.com/Grokking-Algorithms-illustrated-programmers-curious/dp/1617292230  
 
@@ -41,7 +41,7 @@ It may seem complex if you haven't read the book, go read it.  the topic below i
 
 
 <br/>
-### 2. But How Do It Know? - The Basic Principles of Computers for Everyone
+### 2. "But How Do It Know? - The Basic Principles of Computers for Everyone"
 [Hardware]  
 https://www.amazon.com/But-How-Know-Principles-Computers/dp/0615303765   
 
