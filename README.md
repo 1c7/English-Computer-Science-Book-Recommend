@@ -1,4 +1,7 @@
-# Computer Science Book Recommend (Total 2 book)  
+# Computer Science Book Recommend (Total 2 book) 
+* 1 book on [Data structure and Algorithem]
+* 1 book on [Hardware]
+
 I read all of them cover to cover, and think these book are brilliant.   
 very easy to understand, very good for self-taught people. very friendly for beginner.  
 not advance topic that need a lot prerequisites.  
@@ -9,12 +12,14 @@ Here is my book list and my review, hope it help you. enjoy.
 ### 1. Grokking Algorithms An illustrated guide for programmers and other curious people
 [Data structure and Algorithm]    
 https://www.amazon.com/Grokking-Algorithms-illustrated-programmers-curious/dp/1617292230  
+
+### My Review
 Very easy to understand, a lot of cartoon drawing , example and analogy.  
 Best algorithm book I have read so far, other book just tedious, too much detail about math and just dull.  
 This book use Python. about 200 page, I finally understand how BFS work.  
 __If you are beginner on Data structure and Algorithm, this definitely should be your first book (instead of CLRS)__
 
-#### My Summary 
+### My Summary 
 this is not copy&paste book chapter name, just my summary on the order of topic it cover.  
 It may seem complex if you haven't read the book, go read it.  the topic below is not hard as you may think.  
 
@@ -38,7 +43,9 @@ It may seem complex if you haven't read the book, go read it.  the topic below i
 <br/>
 ### 2. But How Do It Know? - The Basic Principles of Computers for Everyone
 [Hardware]  
-https://www.amazon.com/But-How-Know-Principles-Computers/dp/0615303765     
+https://www.amazon.com/But-How-Know-Principles-Computers/dp/0615303765   
+
+### My Review
 Great book about how computer work, how "logic gate" combine together to perform certain behavior we want it to accomplish,  
 How add two binary number, how computer "remember" a bit,    
 How combine these thing that can "remember" bit into Memory.  etc,   
@@ -50,7 +57,7 @@ and how these part combine again to perform even complex work.
 __Fantastic Book__
 
 
-#### by the way
+#### By the way
 This book didn't contain homework or programing exercise, just concept.  
 
 
