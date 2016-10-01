@@ -1,4 +1,4 @@
-# Computer Science Book Recommend  
+# Computer Science Book Recommend (Total 2 book)  
 I read all of them cover to cover, and think these book are brilliant.   
 very easy to understand, very good for self-taught people. very friendly for beginner.  
 not advance topic that need a lot prerequisites.  
@@ -47,13 +47,16 @@ by that, I mean it's not talk about how these hardware are actually made in real
 what process and machine and cost to make a transister, the history of electricity, who is faraday, light bulb analogy, history of telegram, etc.
 It focus on these essential concept, that is how logic gate combine together to work.
 and how these part combine again to perform even complex work.  
+__Fantastic Book__
 
 
-#### btw
+#### by the way
 This book didn't contain homework or programing exercise, just concept.  
 
 
 #### Topic (as order in book)
+you should read this after you have read the book.  
+
 1. Nand gate
 1. Not gate: how to use one "nand gate" to make one "not gate"
 1. And gate: how "nand gate" + "not gate" = "and gate"
@@ -106,7 +109,7 @@ This book didn't contain homework or programing exercise, just concept.
 > answer to the question "But How do it Know?"
 > is simply "It donesn't know anything!"
 
-#### Summary 2
+#### Summary
 1. this book build a 8 bit computer
 1. the CPU graph would get more and more complex, not just in that chapter with 2 question mark and just done.
 
