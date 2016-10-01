@@ -10,13 +10,14 @@ Here is my book list and my review, hope it help you. enjoy.
 
 <br/>
 ### 1. "Grokking Algorithms An illustrated guide for programmers and other curious people"
+about 200 page
 [Data structure and Algorithm]    
 https://www.amazon.com/Grokking-Algorithms-illustrated-programmers-curious/dp/1617292230  
 
 ### My Review
 Very easy to understand, a lot of cartoon drawing , example and analogy.  
 Best algorithm book I have read so far, other book just tedious, too much detail about math and just dull.  
-This book use Python. about 200 page, I finally understand how BFS work.  
+This book use Python. I finally understand how BFS work.  
 __If you are beginner on Data structure and Algorithm, this definitely should be your first book (instead of CLRS)__
 
 ### My Summary 
@@ -42,6 +43,7 @@ It may seem complex if you haven't read the book, go read it.  the topic below i
 
 <br/>
 ### 2. "But How Do It Know? - The Basic Principles of Computers for Everyone"
+about 200 page
 [Hardware]  
 https://www.amazon.com/But-How-Know-Principles-Computers/dp/0615303765   
 
