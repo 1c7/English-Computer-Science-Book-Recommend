@@ -60,10 +60,10 @@ This book didn't contain homework or programing exercise, just concept.
 1. Remember a bit: by using 4 nand gate (let's call this little chip "M")
 1. Combine 8 "M" to remeber 8 bit (let's call this "B")
 1. 8 "And gate" can make a Enabler: turn on Enabler, bit from input can go to output, turn off enabler, bit can not go though
-(let's call this "E")
+  (let's call this "E")
 1. B+E = Registor, a Registor just a storage place, it storage bit, that's it, it can remember 8 bit
 1. what is "bus": just line to connect all different part, bit can travel though bus and get to other place, 
-we have 8 line here to make a bus. (transfer 8 bit at one time)
+  we have 8 line here to make a bus. (transfer 8 bit at one time)
 1. And gate: this time with 3 input, instead of 2 input
 1. Decoder: 2x4 
 1. one 8-bit Regisiter + one 2x4 Decoder = 256 byte memory
@@ -82,8 +82,8 @@ we have 8 line here to make a bus. (transfer 8 bit at one time)
 1. Zero: all these 8 bit are zero? 1 Orer + 1 not gate = 1 Zero
 1. how to combine XOR, OR, AND, NOT, SHL, SHR, ADD, 7 gate to make a ALU: hint: use a 3x8 decoder with 7 enabler.
 1. a little devise call "Bus 1", this little chip have 2 input, 1 output. one of input also call "bus 1"
-when "bus 1" = 0, input go to output, nothing changed,
-when "bus 1" = 1, ignore input, just output binary 1 (which is 0000 0001)
+  when "bus 1" = 0, input go to output, nothing changed,
+  when "bus 1" = 1, ignore input, just output binary 1 (which is 0000 0001)
 1. when we first introduct CPU, we have two "?" mark, now we know one is ALU, one is "Bus 1"
 1. Clock: all compoent work at same pace.
 1. Stepper
@@ -95,7 +95,16 @@ when "bus 1" = 1, ignore input, just output binary 1 (which is 0000 0001)
 1. Data instruction: load stuff from RAM to one register
 1. Second Great Invention: JUMP instruction
 1. Third Great Invention: JUMP IF, FLAG
-1. 
+1. A Few More words on Arithmetic: Subtraction and Multiplication
+1. The Outside Word: IO
+1. Keyboard
+1. Screen
+1. Last chapter: "Philoshphy"
+
+#### The last sentence of the book 
+Now that we know what is in a computer, and how it works, I think it is fairly obvious that the   
+answer to the question "But How do it Know?"
+is simply "It donesn't know anything!"
 
 #### Summary 2
 1. this book build a 8 bit computer
