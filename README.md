@@ -101,10 +101,10 @@ This book didn't contain homework or programing exercise, just concept.
 1. Screen
 1. Last chapter: "Philoshphy"
 
-#### The last sentence of the book 
-Now that we know what is in a computer, and how it works, I think it is fairly obvious that the   
-answer to the question "But How do it Know?"
-is simply "It donesn't know anything!"
+#### The Last Sentence of the Book 
+> Now that we know what is in a computer, and how it works, I think it is fairly obvious that the   
+> answer to the question "But How do it Know?"
+> is simply "It donesn't know anything!"
 
 #### Summary 2
 1. this book build a 8 bit computer
@@ -118,6 +118,8 @@ So I am not blame author here, I just list what topic this book didn't says.
 * how computer represent dicimal number like 6.78
 
 
+<br/><br/>
 <br/>
+## eh
 English is not my native language, so if there are any grammar error or spell error or just any kind of wrong use.  
 Please point out help my improve :D
