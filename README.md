@@ -138,3 +138,4 @@ Please point out help my improve :D
 
 ## About me
 Ruby on Rails developer living in GuangZhou China.  
+self-taught programmer, 2 year experience  
