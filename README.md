@@ -10,7 +10,7 @@ Here is my book list and my review, hope it help you. enjoy.
 
 <br/>
 ### 1. "Grokking Algorithms An illustrated guide for programmers and other curious people"
-about 200 page
+About 200 page  
 [Data structure and Algorithm]    
 https://www.amazon.com/Grokking-Algorithms-illustrated-programmers-curious/dp/1617292230  
 
@@ -43,7 +43,7 @@ It may seem complex if you haven't read the book, go read it.  the topic below i
 
 <br/>
 ### 2. "But How Do It Know? - The Basic Principles of Computers for Everyone"
-about 200 page
+About 200 page   
 [Hardware]  
 https://www.amazon.com/But-How-Know-Principles-Computers/dp/0615303765   
 
@@ -135,3 +135,6 @@ So I am not blame author here, I just list what topic this book didn't says.
 ## eh
 English is not my native language, so if there are any grammar error or spell error or just any kind of wrong use.  
 Please point out help my improve :D
+
+## About me
+Ruby on Rails developer living in GuangZhou China.  
