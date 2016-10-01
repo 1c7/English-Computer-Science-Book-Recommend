@@ -138,4 +138,6 @@ Please point out help my improve :D
 
 ## About me
 Ruby on Rails developer living in GuangZhou China.  
-self-taught programmer, 21 years old guy(1995) with 2 year work experience 
+self-taught programmer,   
+2 year work experience. back-end + front-end.    
+finish 2 side project using Ruby on Rails  
