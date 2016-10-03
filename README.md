@@ -1,4 +1,4 @@
-# Computer Science Book Recommend (Total 2 book) 
+## Computer Science Book Recommend (Total 2 book) 
 * 1 book on [Data structure and Algorithem]
 * 1 book on [Hardware]
 
@@ -8,7 +8,18 @@ not advance topic that need a lot prerequisites.
 the order doesn't matter here, you shouldn't read these book one by one as how I list them.  
 Here is my book list and my review, hope it help you. enjoy.  
 
+---
+
+## List
+1. "Grokking Algorithms An illustrated guide for programmers and other curious people"
+2. "But How Do It Know? - The Basic Principles of Computers for Everyone"
+
 <br/>
+<br/>
+
+## Review
+
+
 ### 1. "Grokking Algorithms An illustrated guide for programmers and other curious people"
 About 200 page  
 [Data structure and Algorithm]    
