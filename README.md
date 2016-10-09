@@ -99,7 +99,7 @@ you should read this after you have read the book.
 1. Ander
 1. Orer
 1. Xorer:  same, same, same. instead 1 bit, these "-er" is 8 bit. nothing fancy here.
-1. Half Adder: 2 input: a, b. 2 output: sum, carry. 1 Xor + 1 Nand = 1 Half Adder
+1. Half Adder: 2 input: a, b. 2 output: sum, carry. __1 Xor + 1 And = 1 Half Adder__
 1. Full Adder: 3 input: a, b, carry. 
 1. Comparter: equal? 'a' larger?
 1. Zero: all these 8 bit are zero? 1 Orer + 1 not gate = 1 Zero
